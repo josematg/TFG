@@ -2,7 +2,6 @@ library(biostat3)
 library(lmtest)
 library(tidyverse)
 library(xlsx)
-library(mlogit)
 library(readxl)
 
 options(scipen = 999)
